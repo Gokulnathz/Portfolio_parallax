@@ -220,4 +220,15 @@ body,html{
 .pro{
   margin-left: 3%;
 }
+.pimg1{
+    
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;  
+    width:100%;
+    
+    background-image: url(./images/Untitled-1-sm.jpg);
+
+}
 }

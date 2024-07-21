@@ -226,9 +226,11 @@ body,html{
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;  
-    width:100%;
+  width:100%;
+  
     
     background-image: url(./images/Untitled-1-sm.jpg);
 
 }
+
 }
